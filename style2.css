@@ -1,0 +1,190 @@
+
+	#shops {
+				
+			font-size:100px;
+			text-align:center;
+			border: solid black;
+			border-left:-15px;
+			width: 1300px;
+			height:125px;
+			margin: auto;
+		}
+		
+		
+	#button2 {
+			position:relative;
+			left: -500px;
+			top: 70px;
+			height:50px;
+			width:200px;
+			font-size:30px;
+			border: solid 1px black;
+			background-color: #F2F2F2;
+			margin: 0 auto 30px auto;
+			text-align: center;
+			line-height: 50px;
+			text-decoration
+	}
+	#bodycare { 
+			position:relative;
+			left: 570px;
+			top: -318px;
+	}
+	
+	#claires {
+		position:relative;
+			left: 550px;
+			top: -308px;
+	}
+	#clarks {
+		position:relative;
+			left: 550px;
+			top: -318px;
+	}
+	
+	#BHF {
+		position:relative;
+			left: -135px;
+			top: -100px;
+	}
+	
+	#EE {
+		position:relative;
+			left: -145px;
+			top: -100px;
+			
+	}
+	
+	#heron {
+		position:relative;
+			left: -125px;
+			top: -100px;
+	}
+	
+	#pound {
+		position:relative;
+			left: -830px;
+			top: 125px;
+	}
+	
+	#sky {
+		position:relative;
+			left: 805px;
+			top: -85px;
+	}
+	
+	#timpson {
+		position:relative;
+			left: 795px;
+			top: -85px;
+	}
+	
+	#lang {
+			position:relative;
+				right: -485px;
+				top: -50px;
+		}
+		
+	#back {
+		position:relative;
+			left: -250px;
+			top:-10px;
+	}
+	
+	#speaker {
+		position:relative;
+			left: -5px;
+			top:0px
+	}
+		
+	#burgerking {
+		position:relative;
+			left: 570px;
+			top: -318px;
+	}
+	#costa {
+		position:relative;
+			left: 569px;
+			top: -300px;
+	}
+	
+	#greggs {
+		position:relative;
+			left: 540px;
+			top: -305px;
+	}
+	
+	#noodles {
+		position:relative;
+			left: -140px;
+			top: -100px;
+	}
+		
+	#kfc {
+		position:relative;
+			left: -165px;
+			top: -90px;
+	}
+	
+	#subway {
+		position:relative;
+			left: -185px;
+			top: -100px;
+	}
+	
+	#wendys {
+		position:relative;
+			left: -458px;
+			top: 115px;
+	}
+	
+	#pizzahut {
+			position:relative;
+			left: 570px;
+			top: -90px;
+	}
+	
+	#hotdog {
+		position:relative;
+			left: 610px;
+			top: -90px;
+	}
+	
+	#natwest {
+	position: relative;
+	left: 580px;
+	top: -300px;
+	}
+	
+	#starline {
+	position: relative;
+	left: -240px;
+	top: -20px;
+	}
+		
+		
+	#barclays {
+	position: relative;
+	left: 0px;
+	top: -280px;
+	}
+		
+	#lloyds {
+	position: relative;
+	left: -180px;
+	top: -50px;
+	}
+	
+	#halifax {
+	position: relative;
+	left: 335px;
+	top: 190px;
+	}
+	
+	#santa {
+	position: relative;
+	left: 50px;
+	top: 200px;
+	}
+		
+		
